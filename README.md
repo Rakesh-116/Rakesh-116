@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rakesh Penugonda and I'm a Full Stack Dev</h2>
+<h2 align="left">Hi 👋! My name is Rakesh Penugonda and I create websites</h2>
 
 ###
 
