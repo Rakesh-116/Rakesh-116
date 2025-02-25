@@ -6,7 +6,7 @@
 </p>
 
 ## 🔭 Current Work
-- Building innovative solutions at [collasyn.com](https://collasyn.com)
+- Learning Stuff by building projects
 - Exploring new technologies in web development
 
 ## 🚀 Featured Projects
