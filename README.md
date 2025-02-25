@@ -12,32 +12,35 @@
 ## 🚀 Featured Projects
 
 ### 1. AI Lesson Planner
-- A comprehensive AI-powered teaching assistant platform
+- An innovative AI-powered teaching assistant platform for educators
 - **Tech Stack:** React.js, Node.js, OpenAI Integration
 - [Frontend Repository](https://github.com/Rakesh-116/AI-Lesson-Planner-Frontend) | [Backend Repository](https://github.com/Rakesh-116/AI-Lesson-Planner-Backend)
 - Features:
   - AI-driven lesson plan generation
   - Interactive teaching material creation
   - Customizable curriculum development
+  - Real-time lesson suggestions
 
-### 2. Cloud-Based IDE (AWS Cloud9)
-- A cloud-based integrated development environment
-- **Tech Stack:** AWS Cloud9, AIML, Node.js
-- [Repository](https://github.com/Rakesh-116/Cloud-Based-IDE)
+### 2. BeingZero Clone (BZ)
+- A feature-rich online code compiler and learning platform
+- **Tech Stack:** React.js, Node.js, MongoDB
+- [Frontend Repository](https://github.com/Rakesh-116/BZ-Client) | [Backend Repository](https://github.com/Rakesh-116/BZ-Server)
 - Features:
-  - Real-time code collaboration
-  - Cloud-based development environment
-  - Integrated AI/ML capabilities
+  - Multi-language code compilation
+  - Real-time code execution
+  - User authentication system
+  - Code saving and sharing functionality
 
 ### 3. Fashion Wear E-Commerce Application
-- A full-stack e-commerce platform for fashion retail
+- A comprehensive e-commerce platform for fashion retail
 - **Tech Stack:** React.js, Java, Spring Boot
 - [Frontend Repository](https://github.com/Rakesh-116/Fashion-Wear-Application-Frontend-) | [Backend Repository](https://github.com/Rakesh-116/Fashion-Wear-Application-Backend-)
 - Features:
   - User authentication and authorization
-  - Product catalog management
-  - Shopping cart functionality
+  - Product catalog with search and filter
+  - Shopping cart and wishlist
   - Secure payment integration
+  - Order tracking system
 
 ## 📊 GitHub Stats
 
