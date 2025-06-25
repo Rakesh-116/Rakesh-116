@@ -24,7 +24,8 @@
 ### 2. BeingZero Clone (BZ)
 - A feature-rich online code compiler and learning platform
 - **Tech Stack:** React.js, Node.js, Postgres, Docker Containerization
-- [Frontend Repository](https://github.com/Rakesh-116/BZ-Client) | [Backend Repository](https://github.com/Rakesh-116/BZ-Server)
+- [Repository](https://github.com/Rakesh-116/NeoCode)
+- [Link](https://neocode.rakeshp.me)
 - Features:
   - Multi-language code compilation
   - Real-time code execution
