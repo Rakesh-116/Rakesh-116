@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Penugonda</h1>
+[![Rakesh Penugonda profile views](https://u8views.com/api/v1/github/profiles/119618769/views/day-week-month-total-count.svg)](https://u8views.com/github/Rakesh-116)
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
